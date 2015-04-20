@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="450mm"
+   height="300mm"
+   viewBox="0 0 1594.4885 1062.9921"
+   id="svg4334"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4336">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22409">
+      <stop
+         style="stop-color:#1a1a1a;stop-opacity:1"
+         offset="0"
+         id="stop22411" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="1"
+         id="stop22413" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient22373"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop22375" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop22377" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22373"
+       id="linearGradient22407"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1400688,0,0,1.1400688,-472.67077,-3.0185453)"
+       x1="607.37753"
+       y1="336.79298"
+       x2="1095.9829"
+       y2="336.79298" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient22409"
+       id="linearGradient22423"
+       x1="1180.0867"
+       y1="386.79108"
+       x2="1566.739"
+       y2="386.79108"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1392.1429"
+     inkscape:cy="35.579303"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="963"
+     inkscape:window-x="0"
+     inkscape:window-y="312"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4339">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,10.6301)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:195.33226013px;line-height:0%;font-family:Ayuthaya;-inkscape-font-specification:'Ayuthaya, Normal';text-align:start;letter-spacing:-15.5962286px;word-spacing:-42.93572235px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:url(#linearGradient22407);stroke-width:5.01630402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="203.41069"
+       y="454.94235"
+       id="text20869"
+       sodipodi:linespacing="0%"
+       transform="scale(0.87261802,1.1459768)"><tspan
+         sodipodi:role="line"
+         id="tspan20871"
+         x="203.41069"
+         y="454.94235"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:195.33226013px;line-height:0%;font-family:Ayuthaya;-inkscape-font-specification:'Ayuthaya, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:-15.5962286px;word-spacing:-42.93572235px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient22407);stroke-width:5.01630402;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">I <tspan
+   style="stroke:url(#linearGradient22407);stroke-width:5.01630402;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="tspan22383">USED</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot20873"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion20875"><rect
+           id="rect20877"
+           width="942.85712"
+           height="242.85715"
+           x="357.14285"
+           y="222.99207" /></flowRegion><flowPara
+         id="flowPara20879"></flowPara></flowRoot>    <text
+       transform="scale(0.89715027,1.1146405)"
+       sodipodi:linespacing="0%"
+       id="text20923"
+       y="464.0217"
+       x="787.19373"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:196.98666382px;line-height:0%;font-family:Ayuthaya;-inkscape-font-specification:'Ayuthaya, Normal';text-align:start;letter-spacing:-11.60593414px;word-spacing:-43.29840851px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:url(#linearGradient22423);stroke-width:6.84000154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan20927"
+         x="787.19373"
+         y="464.0217"
+         style="stroke-width:6.84000154;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke:url(#linearGradient22423);fill:#4d4d4d">TO WEIGH</tspan></text>
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:4.30292416;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.99107139;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect22427"
+       width="1310.6686"
+       height="33.525639"
+       x="147.52289"
+       y="477.02765" />
+    <ellipse
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fefefe;stroke-width:6.4000001;stroke-linejoin:miter;stroke-miterlimit:3.4000001;stroke-dasharray:none;stroke-opacity:0.99107139;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path22429"
+       cx="812.85712"
+       cy="533.79041"
+       rx="681.42859"
+       ry="50" />
+  </g>
+</svg>
